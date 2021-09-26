@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ファイナルファンタジIX - Alexandria</title>
+	<link rel="stylesheet" href="css/skeleton.css">
+	<link rel="stylesheet" href="css/normalize.css">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<script src="https://unpkg.com/react@17/umd/react.production.min.js" crossorigin></script>
+	<script src="https://unpkg.com/react-dom@17/umd/react-dom.production.min.js" crossorigin></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.25.0/babel.min.js"></script>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sawarabi Gothic">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Dela Gothic One">
+	
+	<style>
+	    body {
+	      background-color: #a39b7b;
+	      color: #383838;
+	      font-family: "Sawarabi Gothic", sans-serif;   	      
+	      text-align: center;
+	      font-size: 18px;
+	    }
+	        
+	    img {
+	      cursor: pointer;
+	    }
+	    
+	  </style>
+</head>
+<body>		
+	<div id="main"></div>
+	<script type="text/babel">
+
+		const ffix_jpn_path = 'img/Breath of Fire IV - Utsurowazaru Mono (Japan)-';
+		const ffix_eng_path = 'img/Breath_of_Fire_IV-';
+
+		class ChangeableImage extends React.Component {
+
+			constructor(props) {
+				super(props);
+
+				this.state = {
+					jpn: 1
+				};
+
+				this.toggleImg = this.toggleImg.bind(this);
+				this.getProperImg = this.getProperImg.bind(this);
+
+			}
+
+			toggleImg() {
+				let newState = this.state.jpn * -1;
+				this.setState({jpn: newState});				
+			}
+
+			getProperImg() {
+				if (this.state.jpn === 1) {
+					return ffix_jpn_path + this.props.jpn + '.png';
+				} else {
+					return ffix_eng_path + this.props.eng + '.png';
+				}
+			}
+
+			render() {
+				return(
+					<div class="row">
+						<center>						
+							<img width="80%" src={this.getProperImg()} onClick={this.toggleImg} />
+						</center>
+					</div>
+				);
+			}
+		}
+
+		class Jpn extends React.Component {
+			render () {
+				return(
+					<ruby>{this.props.k}<rt>{this.props.f}</rt></ruby>
+				);
+			}
+		}
+
+		class Main extends React.Component {
+
+			render() {
+				return(
+					<div class="container">
+						<div class="row">							
+							<h1 style={{color: '#b84030', fontFamily: 'Dela Gothic One', fontSize: '60px'}}>ブレスオブファイア IV</h1> 							
+							<p>
+								<span style={{color: '#000', fontSize: '16px'}}>Please click the image to toggle from Japanese to English</span>
+							</p>
+							<ChangeableImage jpn={'0000'} eng={'0000'} />							
+							<ChangeableImage jpn={'0001'} eng={'0001'} />
+							<h4>プレイヤーの　<Jpn k="名" f="な" /><Jpn k="前" f="まえ" />を<Jpn k="決" f="き" />めてください</h4>
+							<ChangeableImage jpn={'0002'} eng={'0002'} />
+							<h4><span style={{color: '#4c729e'}}>『リュウ』</span>でよろしいですか</h4>
+							<ChangeableImage jpn={'0003'} eng={'0004'} />
+							<h4>お<Jpn k="城" f="しろ" />を<Jpn k="出" f="で" />て３日目。</h4>
+							<h4><Jpn k="明" f="あ" />け<Jpn k="方" f="がた"/>、<Jpn k="私" f="わたし" />たちの<Jpn k="砂" f="すな" /><Jpn k="船" f="ぶね" />は</h4>
+							<h4><Jpn k="大" f="だい" /><Jpn k="砂" f="さ"/><Jpn k="漠" f="ばく" />にさしかかった。</h4>
+							<ChangeableImage jpn={'0005'} eng={'0005'} />
+							<ChangeableImage jpn={'0006'} eng={'0006'} />
+							<ChangeableImage jpn={'0007'} eng={'0007'} />
+							<ChangeableImage jpn={'0009'} eng={'0008'} />
+							<ChangeableImage jpn={'0010'} eng={'0010'} />
+							<ChangeableImage jpn={'0011'} eng={'0011'} />
+							<ChangeableImage jpn={'0012'} eng={'0012'} />
+						</div>								
+					</div>
+				);
+			}
+		}
+
+		ReactDOM.render(<Main />, document.getElementById('main'))
+	</script>
+
+</body>
+</html>

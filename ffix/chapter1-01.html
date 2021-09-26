@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ファイナルファンタジIX - Alexandria</title>
+	<link rel="stylesheet" href="css/skeleton.css">
+	<link rel="stylesheet" href="css/normalize.css">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<script src="https://unpkg.com/react@17/umd/react.production.min.js" crossorigin></script>
+	<script src="https://unpkg.com/react-dom@17/umd/react-dom.production.min.js" crossorigin></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.25.0/babel.min.js"></script>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sawarabi Gothic">	
+	<style>
+	    body {
+	      background-color: #585858;
+	      color: #C8C8C8;
+	      font-family: "Sawarabi Gothic", sans-serif;   
+	      text-shadow: 1px 1px 2px black;
+	      text-align: center;
+	      font-size: 18px;
+	    }
+	        
+	    img {
+	      cursor: pointer;
+	    }
+	    
+	  </style>
+</head>
+<body>		
+	<div id="main"></div>
+	<script type="text/babel">
+
+		const ffix_jpn_path = 'img/Final Fantasy IX (Japan) (Disc 1)-';
+		const ffix_eng_path = 'img/Final Fantasy IX (Disc 1) (v1.1)-';
+
+		class ChangeableImage extends React.Component {
+
+			constructor(props) {
+				super(props);
+
+				this.state = {
+					jpn: 1
+				};
+
+				this.toggleImg = this.toggleImg.bind(this);
+				this.getProperImg = this.getProperImg.bind(this);
+
+			}
+
+			toggleImg() {
+				let newState = this.state.jpn * -1;
+				this.setState({jpn: newState});				
+			}
+
+			getProperImg() {
+				if (this.state.jpn === 1) {
+					return ffix_jpn_path + this.props.jpn + '.png';
+				} else {
+					return ffix_eng_path + this.props.eng + '.png';
+				}
+			}
+
+			render() {
+				return(
+					<div class="row">
+						<center>						
+							<img width="80%" src={this.getProperImg()} onClick={this.toggleImg} />
+						</center>
+					</div>
+				);
+			}
+		}
+
+		class Main extends React.Component {
+
+			render() {
+				return(
+					<div class="container">
+						<div class="row">							
+							<h1>Final Fantasy IX - Chapter I: Alexandria</h1> 
+							<h2>01 - Strangers on the Flying Skyship</h2>
+							<p>
+								This is where the story begin. A flying skyship is arriving the city of Alexandria, and 
+								there is something happening with the crew inside it...<br />
+
+								<span style={{color: '#fdd10c', fontSize: '14px'}}>Please click the image to toggle from Japanese to English</span>
+							</p>
+							<ChangeableImage jpn={'0000'} eng={'0000'} />
+							<h4><ruby>暗<rt>くら</rt></ruby>いな.....</h4>		
+							<ChangeableImage jpn={'0001'} eng={'0001'} />
+							<h4>まだ<ruby>誰<rt>だれ</rt></ruby>も<ruby>来<rt>き</rt></ruby>てないのか?</h4>
+							<p>The blonde guy lights a lighter as the room is too dark to see anything.</p>
+							<ChangeableImage jpn={'0002'} eng={'0002'} />
+							<h4><ruby>部屋<rt>へや</rt></ruby>の<ruby>中央<rt>ちゅうおう</rt></ruby>のロウソクに<ruby>火<rt>ひ</rt></ruby>をともそう！</h4>
+							<ChangeableImage jpn={'0003'} eng={'0003'} />
+							<h4><span style={{color: '#fdd10c'}}>４７ギル</span>を<ruby>手<rt>て</rt></ruby>にいれた！</h4>
+							<ChangeableImage jpn={'0004'} eng={'0004'} />
+							<h4><span style={{color: '#fdd10c'}}>ポーション</span>を<ruby>手<rt>て</rt></ruby>にいれた！</h4>
+							<ChangeableImage jpn={'0005'} eng={'0005'} />
+											
+							<h4>♈︎♈︎♈︎ <span style={{color: '#68c0d8'}}><ruby>劇場艇<rt>げきじょうてい</rt></ruby>プリマビスタ</span>　♈︎♈︎♈︎</h4>
+
+							<div class="row">								
+								<div class="row">
+									<div class="one-half column" style={{textAlign: 'right'}}><h4><ruby>種別<rt>しゅべつ</rt></ruby></h4></div>
+									<div class="one-half column" style={{textAlign: 'left'}}> <h4>: <ruby>劇場付<rt>げきじょうつ</rt></ruby>き<ruby>豪華飛空艇<rt>ごうかひくうてい</rt></ruby></h4></div>
+								</div>								
+								<div class="row">
+									<div class="one-half column"  style={{textAlign: 'right'}}>  <h4><ruby>総<rt>そう</rt></ruby>トン<ruby>数<rt>すう</rt></ruby></h4></div>
+									<div class="one-half column"  style={{textAlign: 'left'}}><h4 style={{marginTop: '20px'}}>: ８２３５t</h4></div>
+								</div>
+								<div class="row">
+									<div class="one-half column"  style={{textAlign: 'right'}}>  <h4><ruby>収容乗客数<rt>しゅうようじょうきゃくすう</rt></ruby></h4></div>
+									<div class="one-half column"  style={{textAlign: 'left'}}><h4>: ２８８<ruby>名<rt>めい</rt></ruby></h4></div>
+								</div>
+								<div class="row">
+									<div class="one-half column"  style={{textAlign: 'right'}}>  <h4><ruby>動力<rt>どうりょく</rt></ruby></h4></div>
+									<div class="one-half column"  style={{textAlign: 'left'}}><h4 style={{marginTop: '20px'}}>: ヴェール・エナジー</h4></div>
+								</div>
+								<div class="row">
+									<div class="one-half column"  style={{textAlign: 'right'}}>  <h4><ruby>建造<rt>けんぞう</rt></ruby></h4></div>
+									<div class="one-half column"  style={{textAlign: 'left'}}><h4>: ゼブルト<ruby>造船所<rt>ぞうせんしょ</rt></ruby></h4></div>
+								</div>
+								<div class="row">
+									<div class="one-half column"  style={{textAlign: 'right'}}>  <h4><ruby>船籍<rt>せんせき</rt></ruby></h4></div>
+									<div class="one-half column"  style={{textAlign: 'left'}}><h4 style={{marginTop: '20px'}}>: リンドブルム</h4></div>
+								</div>								
+							</div>
+							<ChangeableImage jpn={'0006'} eng={'0006'} />
+							<h4>？マークが<ruby>出<rt>で</rt></ruby>ている<ruby>時<rt>とき</rt></ruby>に、⭕ボタンを<ruby>押<rt>お</rt></ruby>すと.....</h4>
+							<ChangeableImage jpn={'0007'} eng={'0007'} />														
+							<table class="u-full-width">
+								<thead>
+									<tr>
+										<th>オプション １</th>
+										<th>オプション ２</th>
+									</tr>									
+								</thead>
+								<tbody>
+									<tr>
+										<td>
+											<h4>ロウソクに<ruby>火<rt>ひ</rt></ruby>をともす</h4>
+										</td>
+										<td>
+											<h4>やめる</h4>
+										</td>
+									</tr>
+								</tbody>								
+							</table>
+							<p>After lighting up the candle, a voice yells on the other room...</p>
+							<ChangeableImage jpn={'0008'} eng={'0008'} />
+							<h4><ruby>誰<rt>だれ</rt></ruby>だっ！！</h4>
+							<ChangeableImage jpn={'0009'} eng={'0009'} />
+							<h4><ruby>名前<rt>なまえ</rt></ruby>を<ruby>決<rt>き</rt></ruby>めてください</h4>
+							<div class="row">
+								<div class="row">
+									<div class="one-half column" style={{textAlign: 'right'}}>
+										<h5>えいすう</h5>
+									</div>
+									<div class="one-half column" style={{textAlign: 'left'}}>
+										<h5>英数</h5>
+									</div>									
+								</div>
+								<div class="row">
+									<div class="one-half column" style={{textAlign: 'right'}}>
+										<h5>さくじょ</h5>
+									</div>
+									<div class="one-half column" style={{textAlign: 'left'}}>
+										<h5>削除</h5>
+									</div>									
+								</div>
+								<div class="row">
+									<div class="one-half column" style={{textAlign: 'right'}}>
+										<h5>けってい</h5>
+									</div>
+									<div class="one-half column" style={{textAlign: 'left'}}>
+										<h5>決定</h5>
+									</div>									
+								</div>
+							</div>
+							<div style={{boxShadow: '5px 6px #282828', margin: '15px', padding: '10px', border: '4px solid #c0c0c8', borderRadius: '20px'}}>
+								<h4>お<ruby>任<rt>まか</rt></ruby>せ</h4>
+								<p>
+									「おまかせ」 is a japanese word that is routinely used when ordering sushi in restaurants. 
+									It means "I will leave for you to choose", leaving the choice of the pieces for the chief to bring.
+									The expression comes from a composition of the verb "to trust". <br /> It was translated as "Default" to the english version,
+									.but as we can see, it would mean, "I will leave the character's name for you to choose (the creators)".
+								</p>
+							</div>
+							<ChangeableImage jpn={'0010'} eng={'0010'} />														
+							<h4>「オレだよ、ジタンだよ</h4>
+							<p>After the blonde identify himself as Zidane, a couple of thieves comes out of the room.</p>
+							<ChangeableImage jpn={'0011'} eng={'0011'} />
+							<h4>「よぉ、ジタン！<ruby>遅<rt>おそ</rt></ruby>かったじゃねえか！</h4>
+							<ChangeableImage jpn={'0012'} eng={'0012'} />
+							<h4>「すまん。ところで、ボスはもう<ruby>来<rt>き</rt></ruby>てるのか?</h4>
+							<ChangeableImage jpn={'0013'} eng={'0013'} />
+							<h4>「いんや、まだずらよ</h4>
+							<p>After it, the door upstair opens and suddenly a monsters appears...</p>
+							<ChangeableImage jpn={'0014'} eng={'0014'} />
+							<h4><ruby>謎<rt>なぞ</rt></ruby>の<ruby>仮<rt>か</rt></ruby><ruby>面<rt>めん</rt></ruby><ruby>男<rt>おとこ</rt></ruby></h4>
+							<p>And a battle is begins...</p>
+							<ChangeableImage jpn={'0015'} eng={'0015'} />
+							<p>As the thieves hit the monster, they realize it was their boss dressed with a dragon mask.</p>
+							<ChangeableImage jpn={'0016'} eng={'0016'} />
+							<h4>「おめーらっ！</h4>
+							<ChangeableImage jpn={'0017'} eng={'0017'} />
+							<h4>「なかなか、ウデを<ruby>上<rt>あ</rt></ruby>げたじゃねえか！</h4>
+							<ChangeableImage jpn={'0018'} eng={'0018'} />
+							<ChangeableImage jpn={'0019'} eng={'0019'} />
+							<h4>「さぁッ！<ruby>会<rt>かい</rt></ruby><ruby>議<rt>ぎ</rt></ruby>、はじめんど！！</h4>
+						</div>
+					</div>
+				);
+			}
+		}
+
+		ReactDOM.render(<Main />, document.getElementById('main'))
+	</script>
+
+</body>
+</html>
