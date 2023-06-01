@@ -1,0 +1,54 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
+
+<script type="importmap">
+  {
+    "imports": {
+      "vue": "https://unpkg.com/vue@3/dist/vue.esm-browser.js"
+    }
+  }
+</script>
+
+<div id="app">
+  <div class="container">
+    <div class="row">
+      <h1>JOYO KANJI</h1>
+      <input type="text" class="u-full-width" />
+      <input type="submit" value="Search">
+    </div>
+    <div class="row">
+      <table class="u-full-width">
+        <tr>
+          <th>Kanji</th>
+          <th>Readings</th>
+          <th>Meaning</th>
+          <th>Mnemonic</th>
+        </tr>
+        <tr v-for="data in kanjis.data">
+          <td>{{data.kanji}}</td>
+          <td>{{data.onyomi}}</td>
+          <td>{{data.meaning}}</td>
+          <td>{{data.mnemonic}}</td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>
+
+<script type="module">
+  import { createApp } from 'vue'
+
+  createApp({
+    data() {
+      return {
+        message: 'Hello Vue!',
+        kanjis: null
+      }
+    },
+    created() {
+    	fetch('https://japanesestudies.github.io/joyo-kanji/ulrike-joyo-kanji.json')
+      		.then(response => response.json())
+          .then(data => this.kanjis = data);
+      
+    }
+  }).mount('#app')
+</script>
