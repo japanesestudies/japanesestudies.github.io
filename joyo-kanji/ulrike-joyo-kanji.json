@@ -1,6 +1,6 @@
 {
- "data": [
-  {
+    "data": [
+    {
    "id": 1,
    "kanji": "一",
    "meaning": " ONE; 'one' radical ",
@@ -8,7 +8,7 @@
    "kunyomi": "ひと, ひと-つ",
    "mnemonic": "If you hold ONE finger horizontally for too long it will start to ITCH (イチ). ",
    "footnotes": "The kanji itself is radical 1: 'one' ",
-   "parents": "雨 (3: rain),世 (327: world),丘 (1149: hill),and more",
+   "parents": "雨 (3: rain),世 (327: world),丘 (1149: hill),and more"
   },
   {
    "id": 2,
@@ -18,7 +18,7 @@
    "kunyomi": "みぎ",
    "mnemonic": "In shock over the illegal U-turn (ユウ), he covered his mouth (口) with his RIGHT hand (). ",
    "footnotes": "口 (20: mouth; radical 30: 'mouth') , take as 'hand' ",
-   "parents": "若 (886: young)",
+   "parents": "若 (886: young)"
   },
   {
    "id": 3,
@@ -28,7 +28,7 @@
    "kunyomi": "あめ, あま",
    "mnemonic": "If you take the U(ウ)-Boot (U-Boot: German for 'submarine') to AMErika (あめ), then you won’t notice the RAIN. They just know it’s RAINING when the one (一) piece of cloth (巾) they hang out is dripping wet. ",
    "footnotes": "一 (1: one; radical 1: 'one') 巾 (1989: cloth; radical 50: 'cloth') The kanji itself is radical 173: 'rain' ",
-   "parents": "電 (180: electricity),震 (1444: to shake),漏 (1940: leak),and more",
+   "parents": "電 (180: electricity),震 (1444: to shake),漏 (1940: leak),and more"
   },
   {
    "id": 4,
@@ -38,7 +38,7 @@
    "kunyomi": "まる-い",
    "mnemonic": "'Get YEN coins from a teller's window and put the special ones in the blue ENvelope (エン).' ",
    "footnotes": "None ",
-   "parents": "None",
+   "parents": "None"
   },
   {
    "id": 5,
@@ -48,7 +48,7 @@
    "kunyomi": "",
    "mnemonic": "The KING rules the three (三) entities: heaven, Earth, and humans. He is the vertical force ( | ) binding them together. The crowd cheers for him, and when he faints, everyone screams 'OH (オウ), no!' ",
    "footnotes": "三 (23: 'three)  |  (radical 2: 'rod'), take as 'vertical force' The kanji itself is a variant of radical 96: 'jewel' ",
-   "parents": "主 (299: to preside over),全 (330: all),狂 (1161: crazy),and more, , ",
+   "parents": "主 (299: to preside over),全 (330: all),狂 (1161: crazy),and more, , "
   },
   {
    "id": 6,
@@ -58,7 +58,7 @@
    "kunyomi": "ね, おと",
    "mnemonic": "The SOUND that my blue ONkel (オン: German for 'uncle') from INdia (イン) makes when he stands (立) on the sun (日) must be truly horrible. ",
    "footnotes": "立 (73: to stand; radical 117: 'standing') 日 (62: sun; radical 72: 'sun') The kanji itself is radical 180: 'sound' ",
-   "parents": "暗 (224: dark),意 (226: mind),韻 (1015: rhyme),and more",
+   "parents": "暗 (224: dark),意 (226: mind),韻 (1015: rhyme),and more"
   },
   {
    "id": 7,
@@ -68,7 +68,7 @@
    "kunyomi": "くだ-さる, した, お-りる, もと, さ-がる, くだ-す, お-ろす, しも, さ-げる, くだ-る",
    "mnemonic": "The T-bar with the droopy LOWER handle is of such INFERIOR quality that it broke off and fell on the blue CAr (カ) BELOW. ",
    "footnotes": "None ",
-   "parents": "峠 (1663: mountain pass)",
+   "parents": "峠 (1663: mountain pass)"
   },
   {
    "id": 8,
@@ -78,7 +78,7 @@
    "kunyomi": "ひ, ほ",
    "mnemonic": "Flames of FIRE shot out of the blue CAr (カ). 'HI (ひ: German sound for 'sniggering'), hi, hi,' chuckled the arsonist. ",
    "footnotes": "The kanji itself is radical 86: 'fire' ",
-   "parents": "灯 (556: light),災 (680: disaster),灰 (818: ash),and more",
+   "parents": "灯 (556: light),災 (680: disaster),灰 (818: ash),and more"
   },
   {
    "id": 9,
@@ -88,7 +88,7 @@
    "kunyomi": "はな",
    "mnemonic": "HANA (はな) called to her friend, 'Look at that beautiful blue CAlla (カ) lily! FLOWERS appear when the plant (艹) undergoes a change (化).' ",
    "footnotes": "艹 (radical 140: 'grass') 化 (238: to change) ",
-   "parents": "None",
+   "parents": "None"
   },
   {
    "id": 10,
@@ -98,7 +98,7 @@
    "kunyomi": "まな-ぶ",
    "mnemonic": "Under an ornate roof (), each child (子) LEARNS about GArlic COOking (ガク) and practices with a blue pot. ",
    "footnotes": ", take as 'ornate roof' 子 (25: child; radical 39: 'child') ",
-   "parents": "None",
+   "parents": "None"
   },
   {
    "id": 11,
@@ -108,7 +108,7 @@
    "kunyomi": "",
    "mnemonic": "If you put the big blue KEY (キ) in the keyhole marked with X, a SPIRIT-like steam (气) will be released into the ATMOSPHERE. ",
    "footnotes": "气 (breath; radical 84: 'steam') ",
-   "parents": "None",
+   "parents": "None"
   },
   {
    "id": 12,
@@ -118,7 +118,7 @@
    "kunyomi": "ここの-つ, ここの",
    "mnemonic": "The NINE desperately wanted to be a ten (十) but it was about to fall over. So it used a blue hook-shaped Q(キュウ)-tip to lean on. ",
    "footnotes": "十 (33: ten; radical 24: 'cross') ",
-   "parents": "究 (253: to study thoroughly),雑 (687: miscellaneous),軌 (1125: track),and more",
+   "parents": "究 (253: to study thoroughly),雑 (687: miscellaneous),軌 (1125: track),and more"
   },
   {
    "id": 13,
@@ -128,7 +128,7 @@
    "kunyomi": "やす-まる, やす-む, やす-める",
    "mnemonic": "This very CUte (キュウ) person (亻) all dressed in blue RESTs against a tree (木) on her DAY OFF. ",
    "footnotes": "亻 is a variant of 人 (39: person; radical 9: 'person') 木 (69: tree; radical 75: 'tree') ",
-   "parents": "None",
+   "parents": "None"
   },
   {
    "id": 14,
@@ -138,7 +138,7 @@
    "kunyomi": "かな, かね",
    "mnemonic": "He presented two GOLD nuggets ( \ / ) covered () with earth (土) to the blue KINg (キン). ",
    "footnotes": "\ /, take as 'two nuggets' , take as 'cover' 土 (60: earth; radical 32: 'earth') The kanji itself is radical 167: 'metal' ",
-   "parents": "鉄 (353: iron),鏡 (462: mirror),録 (611: to record),and more",
+   "parents": "鉄 (353: iron),鏡 (462: mirror),録 (611: to record),and more"
   },
   {
    "id": 15,
@@ -148,7 +148,7 @@
    "kunyomi": "そら, あ-ける, あ-く, から",
    "mnemonic": "I work (工) to create a hole (穴) in the roof to see the EMPTY SKY, but instead I see a big blue KUH (クウ: German for 'cow'). ",
    "footnotes": "工 (113: manufacturing; radical 48: 'katakana e'), take as 'to work' 穴 (849: hole; radical 116: 'hole') ",
-   "parents": "控 (1258: to hold back)",
+   "parents": "控 (1258: to hold back)"
   },
   {
    "id": 16,
@@ -158,7 +158,7 @@
    "kunyomi": "つき",
    "mnemonic": "A pitted crescent MOON shone down on them. She whispered to him, 'Do you have the GUTS (ガツ) to go to the graveyard? The nugGETS (ゲツ) on Grandpa’s grave will look blue in the moonlight.' ",
    "footnotes": "The kanji itself is radical 74: 'moon' and radical 130: 'flesh' ",
-   "parents": "明 (208: bright),消 (316: to extinguish),有 (401: to have),and more",
+   "parents": "明 (208: bright),消 (316: to extinguish),有 (401: to have),and more"
   },
   {
    "id": 17,
@@ -168,7 +168,7 @@
    "kunyomi": "いぬ",
    "mnemonic": "The big (大) spotted (丶) DOG named KEN (ケン) is standing on his hind legs. ",
    "footnotes": "大 (53: big; radical 37: 'big') 丶 (radical 3: 'dot'), take as 'spotted' The kanji itself is radical 94: 'animal' ",
-   "parents": "然 (528: as such),状 (717: shape),献 (1219: offering),and more",
+   "parents": "然 (528: as such),状 (717: shape),献 (1219: offering),and more"
   },
   {
    "id": 18,
@@ -178,7 +178,7 @@
    "kunyomi": "み-せる, み-える, み-る",
    "mnemonic": "I bend down (儿) to LOOK AT KEN (ケン), who is lying on the floor all blue. I want to SEE with my own eyes (目) that he is alive. ",
    "footnotes": "儿 (radical 10: 'legs'), take as 'bent legs' 目 (72: eye; radical 109: 'eye') The kanji itself is radical 147: 'seeing' ",
-   "parents": "親 (149: parent),覚 (439: to perceive),観 (445: view),and more",
+   "parents": "親 (149: parent),覚 (439: to perceive),観 (445: view),and more"
   },
   {
    "id": 19,
@@ -188,7 +188,7 @@
    "kunyomi": "いつ, いつ-つ",
    "mnemonic": "On this strange chair with a cover, you can only sit until you are FIVE. The cover is blue and doubles as a GO (ゴ) board. ",
    "footnotes": "None ",
-   "parents": "語 (112: language),悟 (1239: to understand)",
+   "parents": "語 (112: language),悟 (1239: to understand)"
   },
   {
    "id": 20,
@@ -198,7 +198,7 @@
    "kunyomi": "くち",
    "mnemonic": "Saying 'KUCHI KUCHI (くち) coo' to a baby makes it OPEN its MOUTH with delight. But then its lips turn blue because COld (コウ) air gets in. ",
    "footnotes": "The kanji itself is radical 30: 'mouth' ",
-   "parents": "右 (2: right),台 (166: a stand),句 (655: phrase),and more",
+   "parents": "右 (2: right),台 (166: a stand),句 (655: phrase),and more"
   },
   {
    "id": 21,
@@ -208,7 +208,7 @@
    "kunyomi": "",
    "mnemonic": "It's easy to recognize the SCHOOL. Its roof features six (六) wooden (木) crosses (乂) COAted (コウ) with blue paint. ",
    "footnotes": "六 (76: six) 木 (69: wood; radical 75: 'tree') 乂, take as 'cross' Alternate interpretation: 交 (115: association) ",
-   "parents": "None",
+   "parents": "None"
   },
   {
    "id": 22,
@@ -218,7 +218,7 @@
    "kunyomi": "ひだり",
    "mnemonic": "She grabbed the I-beam (工) with her LEFT hand () to divert attention while she HID A RIbbon (ひだり) in her blue SAri (サ). ",
    "footnotes": ", take as 'hand' 工 (113: manufacturing; radical 48: 'katakana e'), take as 'I-beam' ",
-   "parents": "佐 (1283: support),惰 (1540: laziness)",
+   "parents": "佐 (1283: support),惰 (1540: laziness)"
   },
   {
    "id": 23,
@@ -228,7 +228,7 @@
    "kunyomi": "み, みっ-つ, み-つ",
    "mnemonic": "When her SON (サン) is feeling blue, she writes beautiful THREE-line poems. ",
    "footnotes": "None ",
-   "parents": "寿 (1351: congratulations),鋳 (1586: casting)",
+   "parents": "寿 (1351: congratulations),鋳 (1586: casting)"
   },
   {
    "id": 24,
@@ -238,7 +238,7 @@
    "kunyomi": "やま",
    "mnemonic": "This is the triple-peaked MOUNTAIN that my SON (サン) climbs when he is feeling blue. ",
    "footnotes": "The kanji itself is radical 46: 'mountain' ",
-   "parents": "岩 (249: rock),島 (358: island),崩 (1801: to collapse),and more",
+   "parents": "岩 (249: rock),島 (358: island),崩 (1801: to collapse),and more"
   },
   {
    "id": 25,
@@ -248,7 +248,7 @@
    "kunyomi": "こ",
    "mnemonic": "A long-armed CHILD named SUE (ス) is lying on a blue COtton (こ) SHEet (シ). ",
    "footnotes": "The kanji itself is radical 39: 'child' ",
-   "parents": "学 (10: study),教 (101: teaching),浮 (1752: floating),and more",
+   "parents": "学 (10: study),教 (101: teaching),浮 (1752: floating),and more"
   },
   {
    "id": 26,
@@ -258,7 +258,7 @@
    "kunyomi": "よ, よっ-つ, よ-つ, よん",
    "mnemonic": "FOUR corners of the square were supposed to be marked, but SHE (シ) ran out of steam after two. ",
    "footnotes": "None ",
-   "parents": "None",
+   "parents": "None"
   },
   {
    "id": 27,
@@ -268,7 +268,7 @@
    "kunyomi": "いと",
    "mnemonic": "Skeins of THREAD are laid out on a blue SHEet (シ). ",
    "footnotes": "The kanji itself is radical 120: 'thread' ",
-   "parents": "紙 (132: paper),編 (785: to knit),縛 (1701: to bind),and more",
+   "parents": "紙 (132: paper),編 (785: to knit),縛 (1701: to bind),and more"
   },
   {
    "id": 28,
@@ -278,7 +278,7 @@
    "kunyomi": "あざ",
    "mnemonic": "A child (子) at her home (宀) in a remote SECTION OF THE VILLAGE studies the Chinese CHARACTERS embroidered on her mother’s blue JEAns (ジ). ",
    "footnotes": "子 (25: child; radical 39: 'child') 宀 (radical 40: 'katakana u'), take as 'home' ",
-   "parents": "None",
+   "parents": "None"
   },
   {
    "id": 29,
@@ -288,7 +288,7 @@
    "kunyomi": "みみ",
    "mnemonic": "This EAR looks just like the one on my blue robot MIMI (みみ). ",
    "footnotes": "The kanji itself is radical 128: 'ear' ",
-   "parents": "聞 (200: to hear),取 (301: to take),職 (721: employment),and more",
+   "parents": "聞 (200: to hear),取 (301: to take),職 (721: employment),and more"
   },
   {
    "id": 30,
@@ -298,7 +298,7 @@
    "kunyomi": "なな-つ, なな, なの",
    "mnemonic": "SHE CHEAted (シチ) and turned the SEVEN upside down. 'NA-NA (なな: German 'scolding' sound),' scolded her partner. ",
    "footnotes": "None ",
-   "parents": "切 (156: to cut),窃 (1488: to steal)",
+   "parents": "切 (156: to cut),窃 (1488: to steal)"
   },
   {
    "id": 31,
@@ -308,7 +308,7 @@
    "kunyomi": "くるま",
    "mnemonic": "He saw a blue two-wheeled rickSHAW (シャ) and decided to make it into a CAR. ",
    "footnotes": "The kanji itself is radical 159: 'vehicle' ",
-   "parents": "軍 (466: armed forces),輪 (601: ring),連 (607: to take along),and more",
+   "parents": "軍 (466: armed forces),輪 (601: ring),連 (607: to take along),and more"
   },
   {
    "id": 32,
@@ -318,7 +318,7 @@
    "kunyomi": "た, て",
    "mnemonic": "A HAND with fingers spread out will never fit in the tiny blue SHOE (シュ). ",
    "footnotes": "The kanji itself is radical 64: 'hand' ",
-   "parents": "挙 (458: to raise),撃 (1209: attack),掌 (1402: palm of the hand),and more",
+   "parents": "挙 (458: to raise),撃 (1209: attack),掌 (1402: palm of the hand),and more"
   },
   {
    "id": 33,
@@ -328,7 +328,7 @@
    "kunyomi": "とお, と",
    "mnemonic": "A roman numeral TEN (X) is balancing on its TOEs (とお) until they turn blue. ",
    "footnotes": "The kanji itself is radical 24: 'cross' ",
-   "parents": "計 (105: plan),直 (349: straightaway),針 (905: needle),and more",
+   "parents": "計 (105: plan),直 (349: straightaway),針 (905: needle),and more"
   },
   {
    "id": 34,
@@ -338,7 +338,7 @@
    "kunyomi": "で-る, だ-す",
    "mnemonic": "When I DARE (でる) to COME OUT from behind the bamboo SHOOTS (シュツ), I see mountain (山) upon mountain (山). ",
    "footnotes": "山 (24: mountain; radical 46: 'mountain') ",
-   "parents": "屈 (1188: to bend),掘 (1189: to dig),拙 (1487: unskillful),and more",
+   "parents": "屈 (1188: to bend),掘 (1189: to dig),拙 (1487: unskillful),and more"
   },
   {
    "id": 35,
@@ -348,7 +348,7 @@
    "kunyomi": "おんな, め",
    "mnemonic": "The kneeling WOMAN with the outstretched arms was the one who dated short, blue-haired JOE (ジョ). ",
    "footnotes": "The kanji itself is radical 38: 'woman' ",
-   "parents": "安 (223: peaceful),好 (859: to like),婚 (1278: marriage),and more",
+   "parents": "安 (223: peaceful),好 (859: to like),婚 (1278: marriage),and more"
   },
   {
    "id": 36,
@@ -358,7 +358,7 @@
    "kunyomi": "こ, ちい-さい, お",
    "mnemonic": "In his magic SHOW (ショウ) he uses a blue COat (こ) to turn a hook (亅) into two SMALL needles ()—and says he is not CHEAting (ちい(さい)). ",
    "footnotes": "亅 (radical 6: 'barb'), take as 'hook' , take as 'two small needles' The kanji itself is radical 42: 'little' ",
-   "parents": "京 (99: capital),少 (143: small quantity),示 (695: to show),and more",
+   "parents": "京 (99: capital),少 (143: small quantity),示 (695: to show),and more"
   },
   {
    "id": 37,
@@ -368,7 +368,7 @@
    "kunyomi": "のぼ-せる, うわ, あ-げる, のぼ-る, のぼ-す, うえ, かみ, あ-がる",
    "mnemonic": "That bar has a handle that sticks UP ABOVE the baseline. Whenever JOE (ジョウ) is blue he tries to balance on the handle on one foot. ",
    "footnotes": "None ",
-   "parents": "止 (129: to stop),肯 (1250: to affirm),峠 (1663: mountain pass),and more",
+   "parents": "止 (129: to stop),肯 (1250: to affirm),峠 (1663: mountain pass),and more"
   },
   {
    "id": 38,
@@ -378,7 +378,7 @@
    "kunyomi": "もり",
    "mnemonic": "Blue-haired MORRIs (もり) said that a FOREST has at least one tree (木) more than a grove (林). ",
    "footnotes": "木 (69: tree; radical 75: 'tree') 林 (75: grove) ",
-   "parents": "None",
+   "parents": "None"
   },
   {
    "id": 39,
@@ -388,7 +388,7 @@
    "kunyomi": "ひと",
    "mnemonic": "This headless, armless PERSON works as a blue NINja (ニン). ",
    "footnotes": "The kanji itself is radical 9: 'person' ",
-   "parents": "以 (419: preposition),傘 (1310: umbrella),囚 (1353: prisoner),and more",
+   "parents": "以 (419: preposition),傘 (1310: umbrella),囚 (1353: prisoner),and more"
   },
   {
    "id": 40,
@@ -398,7 +398,7 @@
    "kunyomi": "みず",
    "mnemonic": "The WATER of incredibly blue SWIss (スイ) rivers squeezes through narrow banks. ",
    "footnotes": "The kanji itself is radical 85: 'water' ",
-   "parents": "泉 (915: spring),踏 (1657: to step on),尿 (1675: urine),and more",
+   "parents": "泉 (915: spring),踏 (1657: to step on),尿 (1675: urine),and more"
   },
   {
    "id": 41,
@@ -408,7 +408,7 @@
    "kunyomi": "ただ-しい, まさ, ただ-す",
    "mnemonic": "Whenever he reaches a blue stop sign, SEIji (セイ) tells himself, 'To stop (止) at the line (一) is the CORRECT thing to do.' ",
    "footnotes": "止 (129: to stop; radical 77: 'stopping') 一 (1: one; radical 1: 'one'), take as 'line' ",
-   "parents": "政 (724: political administration),症 (1397: symptom),征 (1472: to head into battle),and more",
+   "parents": "政 (724: political administration),症 (1397: symptom),征 (1472: to head into battle),and more"
   },
   {
    "id": 42,
@@ -418,7 +418,7 @@
    "kunyomi": "い-きる, なま, い-ける, う-む, は-える, き, い-かす, う-まれる, お-う, は-やす",
    "mnemonic": "A GROWING plant serves as a symbol for LIFE in the SHOW (ショウ) on the stage on the blue SEE (セイ: German for 'lake'). ",
    "footnotes": "The kanji itself is radical 100: 'birth' ",
-   "parents": "星 (154: star),産 (491: to give birth),性 (723: innate quality),and more",
+   "parents": "星 (154: star),産 (491: to give birth),性 (723: innate quality),and more"
   },
   {
    "id": 43,
@@ -428,7 +428,7 @@
    "kunyomi": "あお-い, あお",
    "mnemonic": "The PALE plants that grow () on the SHOre (ショウ) of the blue SEE (セイ: German for 'lake') appear BLUE when the moon (月) shines. ",
    "footnotes": ", take as twist on 生 (42: to grow; radical 100: 'birth') 月 (16: moon; radical 74: 'moon') The kanji itself is radical 174: 'blue' ",
-   "parents": "晴 (155: to clear up),静 (519: quiet),情 (719: emotion),and more",
+   "parents": "晴 (155: to clear up),静 (519: quiet),情 (719: emotion),and more"
   },
   {
    "id": 44,
@@ -438,7 +438,7 @@
    "kunyomi": "ゆう",
    "mnemonic": "A clear moon indicates that EVENING has arrived. And YOU (ゆう) want to celebrate by hitting the slopes at night on our blue SKIs (セキ). ",
    "footnotes": "The kanji itself is radical 36: 'evening' ",
-   "parents": "名 (71: name),外 (91: outside),夢 (1844: dream),and more",
+   "parents": "名 (71: name),外 (91: outside),夢 (1844: dream),and more"
   },
   {
    "id": 45,
@@ -448,7 +448,7 @@
    "kunyomi": "いし",
    "mnemonic": "A square STONE at the base of the cliff fell on my blue SKI (セキ) and caused my ISCHIas (いし: German for 'sciatica') to flare up. ",
    "footnotes": "The kanji itself is radical 112: 'stone' ",
-   "parents": "岩 (249: rock),確 (634: certain),破 (767: tear, break),and more",
+   "parents": "岩 (249: rock),確 (634: certain),破 (767: tear, break),and more"
   },
   {
    "id": 46,
@@ -458,7 +458,7 @@
    "kunyomi": "あか-らめる, あか, あか-らむ, あか-い",
    "mnemonic": "The fire () glowed RED. It melted all the snow, exposing the earth (土) below and making him feel silly for wearing blue SKIs (セキ). ",
    "footnotes": ", take as twist on 火 (8: fire; radical 86: 'fire') 土 (60: soil; radical 32: 'earth') The kanji itself is radical 155: 'red' ",
-   "parents": "嚇 (1080: to intimidate),赦 (1336: to pardon)",
+   "parents": "嚇 (1080: to intimidate),赦 (1336: to pardon)"
   },
   {
    "id": 47,
@@ -468,7 +468,7 @@
    "kunyomi": "ち",
    "mnemonic": "'A picture is worth a THOUSAND words,' said the SENator (セン) in the blue suit, studying an image of Jesus with a cross (十) in one hand and a whip (丿) in the other. ",
    "footnotes": "十 (33: ten; radical 24: 'cross') 丿 (radical 4: 'katakana no'), take as 'whip' ",
-   "parents": " 話 (221: talk),活 (244: active),舌 (732: tongue),and more",
+   "parents": " 話 (221: talk),活 (244: active),舌 (732: tongue),and more"
   },
   {
    "id": 48,
@@ -478,7 +478,7 @@
    "kunyomi": "かわ",
    "mnemonic": "A big rod ( | ) is floating down the RIVER, right in the CENter (セン) between the banks (). ",
    "footnotes": " |  (radical 2: 'rod') , take as '(river) banks' The kanji itself is radical 47: 'river' ",
-   "parents": "流 (409: flow),順 (506: sequence),訓 (656: instruction),and more",
+   "parents": "流 (409: flow),順 (506: sequence),訓 (656: instruction),and more"
   },
   {
    "id": 49,
@@ -488,7 +488,7 @@
    "kunyomi": "さき",
    "mnemonic": "The blue-haired SENator's (セン) legs (儿) carried him AHEAD toward his DESTINATION, but his mind was on LAST week and the birth () of his son. ",
    "footnotes": "儿 (radical 10: 'legs') , take as twist on 生 (42: life; radical 100: 'birth') ",
-   "parents": " 洗 (916: to wash)",
+   "parents": " 洗 (916: to wash)"
   },
   {
    "id": 50,
@@ -498,7 +498,7 @@
    "kunyomi": "はや-い, はや-める, はや-まる",
    "mnemonic": "Judging from the sun (日), it must be 10 (十) already. Time goes by QUICKLY when you are SEWing (ソウ) a blue quilt. ",
    "footnotes": "日 (62: sun; radical 72: 'sun') 十 (33: ten; radical 24: 'cross') ",
-   "parents": "草 (162: grass),章 (318: written passage),障 (902: barrier),and more",
+   "parents": "草 (162: grass),章 (318: written passage),障 (902: barrier),and more"
   },
   {
    "id": 51,
@@ -508,7 +508,7 @@
    "kunyomi": "た-す, あし, た-る, た-りる",
    "mnemonic": "A FOOT with a heel () and a kneecap (口) constitute half a LEG. It SUFFICES that the blue SOCKs (ソク) go up only to the marker on the shin (). ",
    "footnotes": ", take as 'foot with heel' 口 (20: mouth; radical 30: 'mouth'), take as 'kneecap' , take as 'marker on shin' The kanji itself is radical 157: 'foot' ",
-   "parents": "路 (415: route),促 (1536: to urge),捉 (2056: to catch),and more",
+   "parents": "路 (415: route),促 (1536: to urge),捉 (2056: to catch),and more"
   },
   {
    "id": 52,
@@ -518,7 +518,7 @@
    "kunyomi": "むら",
    "mnemonic": "It is blue-haired SONia's (ソン) job to measure (寸) all trees (木) in the VILLAGE. ",
    "footnotes": "寸 (909: measurement; radical 41: 'inch') 木 (69: tree; radical 75: 'tree') ",
-   "parents": "None",
+   "parents": "None"
   },
   {
    "id": 53,
@@ -528,7 +528,7 @@
    "kunyomi": "おお-いに, おお-きい, おお",
    "mnemonic": "This boy who is trying to look as BIG as possible wears DEIne (ダイ: German for 'your') blue TIE (タイ), which hangs to his knees. ",
    "footnotes": "The kanji itself is radical 37: 'big' ",
-   "parents": "因 (614: cause),突 (1668: protruding),戻 (1920: to return),and more",
+   "parents": "因 (614: cause),突 (1668: protruding),戻 (1920: to return),and more"
   },
   {
    "id": 54,
@@ -538,7 +538,7 @@
    "kunyomi": "おとこ",
    "mnemonic": " When strength (力) is needed in the rice field (田), the MAN in blue DUNgarees (ダン) comes to help. ",
    "footnotes": " 力 (74: strength; radical 19: 'strong') 田 (59: rice field; radical 102: 'rice field') ",
-   "parents": " 勇 (592: brave),虜 (1903: captive),湧 (2124: to well (up))",
+   "parents": " 勇 (592: brave),虜 (1903: captive),湧 (2124: to well (up))"
   },
   {
    "id": 55,
@@ -548,7 +548,7 @@
    "kunyomi": "なか",
    "mnemonic": "The CHINESE arrow (丨) with blue CHEWing (チュウ) gum on the tip hits the target (口) right in the MIDDLE. ",
    "footnotes": " |  (radical 2: 'rod'), take as 'arrow' 口 (20: mouth; radical 30: 'mouth'), take as 'target' ",
-   "parents": "仲 (934: intermediary),忠 (936: sincerity),沖 (1583: offshore)",
+   "parents": "仲 (934: intermediary),忠 (936: sincerity),沖 (1583: offshore)"
   },
   {
    "id": 56,
@@ -558,7 +558,7 @@
    "kunyomi": "むし",
    "mnemonic": "I pinned the INSECT () to the bottom of the showcase with a little sign (中) but someone obscured the writing with blue CHEWing gum (チュウ). ",
    "footnotes": ", take as 'insect' 中 (55: middle), take as 'sign on pin' The kanji itself is radical 142: 'insect' ",
-   "parents": "強 (100: strong),風 (198: wind),独 (763: alone),and more",
+   "parents": "強 (100: strong),風 (198: wind),独 (763: alone),and more"
   },
   {
    "id": 57,
@@ -568,7 +568,7 @@
    "kunyomi": "まち",
    "mnemonic": " The TOWN where the blue-haired CHOsen (チョウ) one lived was built around a rice field (田) with a statue of a giant nail (丁) in the middle. ",
    "footnotes": " 田 (59: rice field; radical 102: 'rice field') 丁 (346: town subsection), take as 'nail' ",
-   "parents": "None",
+   "parents": "None"
   },
   {
    "id": 58,
@@ -578,7 +578,7 @@
    "kunyomi": "あま, あめ",
    "mnemonic": "The blue-haired AMErican (あめ) TENor (テン) looked up in awe while singing this aria: 'Above us all there is one (一) big (大) SKY.' ",
    "footnotes": "一 (1: one; radical 1: 'one') 大 (53: big; radical 37: 'big') ",
-   "parents": "蚕 (688: silkworm),奏 (918: to play music),添 (1631: to add to),and more",
+   "parents": "蚕 (688: silkworm),奏 (918: to play music),添 (1631: to add to),and more"
   },
   {
    "id": 59,
@@ -588,7 +588,7 @@
    "kunyomi": "た",
    "mnemonic": "When the DENtist (デン) feels blue, he strolls along the paths that cross the RICE FIELD. ",
    "footnotes": "The kanji itself is radical 102: 'rice field' ",
-   "parents": "思 (131: to think),胃 (424: stomach),果 (627: fruit),and more",
+   "parents": "思 (131: to think),胃 (424: stomach),果 (627: fruit),and more"
   },
   {
    "id": 60,
@@ -598,7 +598,7 @@
    "kunyomi": "つち",
    "mnemonic": "This sturdy plant grows in the EARTH even if DOgs (ド) keep peeing on it. ",
    "footnotes": "The kanji itself is radical 32: 'earth' ",
-   "parents": "去 (258: to leave),坂 (372: slope),圧 (612: pressure),and more",
+   "parents": "去 (258: to leave),坂 (372: slope),圧 (612: pressure),and more"
   },
   {
    "id": 61,
@@ -608,7 +608,7 @@
    "kunyomi": "ふた, ふた-つ",
    "mnemonic": "'Hold TWO fingers horizontally and lift your blue FOOT Up (ふた) to touch the opposite KNEE (ニ), also blue.' ",
    "footnotes": "The kanji itself is radical 7: 'two' ",
-   "parents": "仁 (906: benevolence),弐 (950: two),井 (1470: well),and more",
+   "parents": "仁 (906: benevolence),弐 (950: two),井 (1470: well),and more"
   },
   {
    "id": 62,
@@ -618,7 +618,7 @@
    "kunyomi": "か, ひ",
    "mnemonic": "The HEAt (ひ) of the SUN powers NIETZSCHE’s (ニチ: German philosopher) blue CAr (か) by DAY. ",
    "footnotes": "The kanji itself is radical 72: 'sun' ",
-   "parents": "音 (6: sound),昔 (1481: past),帽 (1816: hat),and more",
+   "parents": "音 (6: sound),昔 (1481: past),帽 (1816: hat),and more"
   },
   {
    "id": 63,
@@ -628,7 +628,7 @@
    "kunyomi": "い-る, はい-る, い-れる",
    "mnemonic": "The blue-eyed NEW (ニュウ) Yorker ENTERED the teepee (入) only after the Native American called out in an EErie (い(る)) voice, telling him to COME IN. ",
    "footnotes": " The kanji itself is radical 11: 'enter' ",
-   "parents": " 込 (1275: to move inward)",
+   "parents": " 込 (1275: to move inward)"
   },
   {
    "id": 64,
@@ -638,7 +638,7 @@
    "kunyomi": "とし",
    "mnemonic": " Every YEAR, blue-haired NENa (ネン) brings the person () guarding the well () a blue TOSHIba (とし) laptop. ",
    "footnotes": " , take as twist on 人 (39: person; radical 9: 'person') , take as twist on 井 (1470: well) ",
-   "parents": "None",
+   "parents": "None"
   },
   {
    "id": 65,
@@ -648,7 +648,7 @@
    "kunyomi": "しろ, しろ-い, しら",
    "mnemonic": "A WHITE ray () of sunshine (日) falls on the bowl of blue HUCKleberries (ハク). ",
    "footnotes": ", take as 'ray' 日 (62: day; radical 72: 'sun') The kanji itself is radical 106: 'white' ",
-   "parents": "泉 (915: spring),拍 (1695: beat (rhythmic)),泊 (1696: staying overnight),and more",
+   "parents": "泉 (915: spring),拍 (1695: beat (rhythmic)),泊 (1696: staying overnight),and more"
   },
   {
    "id": 66,
@@ -658,7 +658,7 @@
    "kunyomi": "よう, や, やっ-つ, や-つ",
    "mnemonic": "The teacher had a special nose. It would always sneeze EIGHT times—four on the left side and four on the right—always with a tremendous HATSCHI (はち: German sound of a sneeze). ",
    "footnotes": "The kanji itself is radical 12: 'eight' ",
-   "parents": "谷 (122: valley),分 (199: to divide),公 (277: public),and more",
+   "parents": "谷 (122: valley),分 (199: to divide),公 (277: public),and more"
   },
   {
    "id": 67,
@@ -668,7 +668,7 @@
    "kunyomi": "",
    "mnemonic": " 'What? HE's YAKUza (ヒャク)? No way! Only about one (一) in a HUNDRED of the white (白) males in this town has ties to those gangsters.' ",
    "footnotes": " 一 (1: one; radical 1: 'one') 白 (65: white; radical 106: 'white') ",
-   "parents": "宿 (505: lodging),縮 (893: to contract)",
+   "parents": "宿 (505: lodging),縮 (893: to contract)"
   },
   {
    "id": 68,
@@ -678,7 +678,7 @@
    "kunyomi": "ふみ",
    "mnemonic": "Blue-haired MONica (モン) tells her students to dot their i's and cross their t's (亠) in all SENTENCES. Otherwise she is going to cross out (乂) everything they've written. ",
    "footnotes": "亠 (radical 8: 'lid'), take as 'to dot the i's and cross the t's' 乂 (to mow), take as 'to cross out' The kanji itself is radical 67: 'literature' ",
-   "parents": "対 (336: to),蚊 (1056: mosquito),紋 (1857: pattern),and more, ",
+   "parents": "対 (336: to),蚊 (1056: mosquito),紋 (1857: pattern),and more, "
   },
   {
    "id": 69,
@@ -688,7 +688,7 @@
    "kunyomi": "き, こ",
    "mnemonic": "This TREE with the sweeping branches has a blue KEY (き) on top so that the blue BOCK (ボク: German for 'buck') cannot reach it. ",
    "footnotes": "The kanji itself is radical 75: 'tree' ",
-   "parents": "机 (832: desk),札 (1304: label),床 (1389: bed),and more",
+   "parents": "机 (832: desk),札 (1304: label),床 (1389: bed),and more"
   },
   {
    "id": 70,
@@ -698,7 +698,7 @@
    "kunyomi": "もと",
    "mnemonic": " Under the blue sky of HONolulu (ホン) he wonders how much of a tree (木) it takes to make one (一) BOOK. ",
    "footnotes": " 木 (69: tree; radical 75: 'tree') 一 (1: one; radical 1: 'one') ",
-   "parents": " 体 (165: body),鉢 (1705: bowl)",
+   "parents": " 体 (165: body),鉢 (1705: bowl)"
   },
   {
    "id": 71,
@@ -708,7 +708,7 @@
    "kunyomi": "な",
    "mnemonic": "Blue-haired MEI (メイ) stands at the window (口) each evening (夕), calling her lover's NAME. ",
    "footnotes": "口 (20: mouth; radical 30: 'mouth'), take as 'window' 夕 (44: evening; radical 36: 'evening') ",
-   "parents": "銘 (1847: inscription)",
+   "parents": "銘 (1847: inscription)"
   },
   {
    "id": 72,
@@ -718,7 +718,7 @@
    "kunyomi": "め, ま",
    "mnemonic": "An upright EYE painted on the blue MElon (め) seemed to MOCK (モク) people. ",
    "footnotes": "The kanji itself is radical 109: 'eye' ",
-   "parents": "見 (18: to see),相 (530: mutual),帽 (1816: hat),and more",
+   "parents": "見 (18: to see),相 (530: mutual),帽 (1816: hat),and more"
   },
   {
    "id": 73,
@@ -728,7 +728,7 @@
    "kunyomi": "た-つ, た-てる",
    "mnemonic": "He is STANDING there, staring at the huge blue RITZ (リツ) Hotel in front of him. ",
    "footnotes": "The kanji itself is radical 117: 'standing' ",
-   "parents": "音 (6: sound),位 (421: rank),倍 (563: double),and more",
+   "parents": "音 (6: sound),位 (421: rank),倍 (563: double),and more"
   },
   {
    "id": 74,
@@ -738,7 +738,7 @@
    "kunyomi": "ちから",
    "mnemonic": "RICKY (リキ) turned blue from all the effort of showing off the STRENGTH of his biceps. ",
    "footnotes": "The kanji itself is radical 19: 'strong'; take as 'biceps' ",
-   "parents": "助 (314: to help),加 (431: addition),務 (795: duty),and more",
+   "parents": "助 (314: to help),加 (431: addition),務 (795: duty),and more"
   },
   {
    "id": 75,
@@ -748,7 +748,7 @@
    "kunyomi": "はやし",
    "mnemonic": "Blue-haired RINgo (リン) was the only person who called the two trees (木) in his front yard a FOREST. ",
    "footnotes": "木 (69: tree; radical 75: 'tree') ",
-   "parents": "摩 (1830: to rub),磨 (1831: to polish),魔 (1832: demon),and more",
+   "parents": "摩 (1830: to rub),磨 (1831: to polish),魔 (1832: demon),and more"
   },
   {
    "id": 76,
@@ -758,7 +758,7 @@
    "kunyomi": "む-つ, むい, む, むっ-つ",
    "mnemonic": "Whoever wins this game of rock (丶), paper (一), scissors (八), using a blue ROCK (ロク), will get the SIX-pack. ",
    "footnotes": "丶 (radical 3: 'dot'), take as 'rock' 一 (1: one; radical 1: 'one'), take as 'sheet of paper' 八 (66: eight; radical 12: 'eight'), take as 'scissors' ",
-   "parents": "None",
+   "parents": "None"
   },
   {
    "id": 77,
@@ -768,7 +768,7 @@
    "kunyomi": "ひ-ける, ひ-く",
    "mnemonic": " Blue-haired INgrid (イン) CONSULTS the archery manual before PULLING the string (丨) of her bow (弓). ",
    "footnotes": " |  (radical 2: 'rod'), take as 'string' 弓 (836: bow) ",
-   "parents": "None",
+   "parents": "None"
   },
   {
    "id": 78,
@@ -778,7 +778,7 @@
    "kunyomi": "くも",
    "mnemonic": "The dark CLOUDS over the blue lagOON (ウン) that look like two (二) noses (ム) promise rain (雨). ",
    "footnotes": "二 (61: two; radical 7: 'two') 厶 (private; radical 28: 'katakana mu'), take as 'nose' 雨 (3: rain; radical 173: 'rain') ",
-   "parents": " 曇 (1672: cloudy)",
+   "parents": " 曇 (1672: cloudy)"
   },
   {
    "id": 79,
@@ -788,7 +788,7 @@
    "kunyomi": "とお-い",
    "mnemonic": "In her travels (辶) to a DISTANT land (土), she made sure to have enough food to put in her mouth (口), comfortable clothes (), and of course her blue TOY (とおい). ",
    "footnotes": "辶 (radical 162: 'movement'), take as 'travels' 土 (60: land; radical 32: 'earth') 口 (20: mouth; radical 30: 'mouth') , take as twist on 衣 (420: clothing; radical 145: 'clothing') ",
-   "parents": "None",
+   "parents": "None"
   },
   {
    "id": 80,
@@ -798,7 +798,7 @@
    "kunyomi": "なん, なに",
    "mnemonic": " 'WHAT can (可) a person (亻) say to the president?' asked the blue-haired NANNY (なに). 'WHATEVER you say,' he replied, 'don't mention blue CAlla (カ) lilies!' ",
    "footnotes": " 可 (816: can) 亻 is a variant of 人 (39: person; radical 9: 'person') ",
-   "parents": " 荷 (239: load)",
+   "parents": " 荷 (239: load)"
   },
   {
    "id": 81,
@@ -808,7 +808,7 @@
    "kunyomi": "",
    "mnemonic": " Using dippers (斗), they filled the director's blue CAr (カ) with grain (禾). Half the DEPARTMENT was in on the 'CRIME.' ",
    "footnotes": " 斗 (1633: dipper; radical 68: 'dots and cross') 禾 (two-branched tree; radical 115: 'grain') ",
-   "parents": "None",
+   "parents": "None"
   },
   {
    "id": 82,
@@ -818,7 +818,7 @@
    "kunyomi": "なつ",
    "mnemonic": "You see a lot of lanterns () and crossed legs (夂) in a SUMMER dance around a blue CAr (カ) filled with NUTS (なつ). ",
    "footnotes": ", take as 'lantern' 夂 (foot; radical 34: 'winter'), take as 'crossed legs' ",
-   "parents": "None",
+   "parents": "None"
   },
   {
    "id": 83,
@@ -828,7 +828,7 @@
    "kunyomi": "や, いえ",
    "mnemonic": " Blue-haired KEvin's (ケ) FAMILY has a fancy roof (宀) on their HOUSE, but the inside looks like pigs (豕) live there. ",
    "footnotes": " 宀 (radical 40: 'katakana u'), take as 'roof' 豕 (radical 152: 'pig') ",
-   "parents": " 嫁 (1049: wife),稼 (1055: earning money)",
+   "parents": " 嫁 (1049: wife),稼 (1055: earning money)"
   },
   {
    "id": 84,
@@ -838,7 +838,7 @@
    "kunyomi": "うた, うた-う",
    "mnemonic": "In this picture, blue-haired UTA (うた) has her mouth wide open. It is possible (可) that she is yawning (欠). But it is also possible (可) that she is singing a SONG or reciting a POEM. ",
    "footnotes": " 可 (816: possible) 欠 (471: lack; radical 76: 'yawning') ",
-   "parents": "None",
+   "parents": "None"
   },
   {
    "id": 85,
@@ -848,7 +848,7 @@
    "kunyomi": "",
    "mnemonic": " To preserve his PICTURES, blue-haired GArfield (ガ) attaches each one to a wooden lattice (田) that hangs (丨) from a rod (一) in an open box (凵). ",
    "footnotes": " 田 (59: rice field; radical 102: 'rice field'), take as 'lattice'  |  (radical 2: 'rod'), take as 'to hang' 一 (1: one; radical 1: 'one'), take as 'rod' 凵 (radical 17: 'open box') ",
-   "parents": "None",
+   "parents": "None"
   },
   {
    "id": 86,
@@ -858,7 +858,7 @@
    "kunyomi": "まわ-す, まわ-る",
    "mnemonic": " 'To build this blue KIte (カイ), make this square nut GO AROUND the bolt at least 10 TIMES,' said blue-haired Emile (エ). ",
    "footnotes": "None ",
-   "parents": "壇 (1571: platform)",
+   "parents": "壇 (1571: platform)"
   },
   {
    "id": 87,
@@ -868,7 +868,7 @@
    "kunyomi": "あ-う",
    "mnemonic": "'OW (あ(う))!' said the two (二) people who bumped elbows (ム) at a MEETING under the awning (). ",
    "footnotes": "二 (61: two; radical 7: 'two') ム (private; radical 28: 'katakana mu'), take as 'elbow' , take as 'awning,' is a variant of 人 (39: person; radical 9: 'person') ",
-   "parents": " 絵 (89: picture)",
+   "parents": " 絵 (89: picture)"
   },
   {
    "id": 88,
@@ -878,7 +878,7 @@
    "kunyomi": "うみ",
    "mnemonic": "'Every (毎) drop of water (氵) flows to the OCEAN,' muses blue-haired KYle (カイ). ",
    "footnotes": "毎 (206: every) 氵 is a variant of 水 (radical 85: 'water') ",
-   "parents": "None",
+   "parents": "None"
   },
   {
    "id": 89,
@@ -888,7 +888,7 @@
    "kunyomi": "",
    "mnemonic": " At the party (会) the blue-haired twins KYle (カイ) and Emile (エ) gave out colorful threads (糸). The guests had to arrange them to make a PICTURE of the hosts. ",
    "footnotes": " 会 (87: party) 糸 (27: thread; radical 120: 'thread') ",
-   "parents": "None",
+   "parents": "None"
   },
   {
    "id": 90,
@@ -898,7 +898,7 @@
    "kunyomi": "かい",
    "mnemonic": "A SHELLFISH with protruding legs becomes tangled up with a sunken blue KIte (かい). ",
    "footnotes": "The kanji itself is radical 154: 'small shell' ",
-   "parents": "買 (193: to buy),責 (728: blame),則 (742: rule),and more",
+   "parents": "買 (193: to buy),責 (728: blame),則 (742: rule),and more"
   },
   {
    "id": 91,
@@ -908,7 +908,7 @@
    "kunyomi": "はず-れる, そと, はず-す, ほか",
    "mnemonic": " Because it was already evening (夕) and quite dark OUTSIDE, our blue-haired GUIde (ガイ) MISSED the sharp right turn (ト). We should have gone with the OTHER guy. ",
    "footnotes": " 夕 (44: evening; radical 36: 'evening') ト (radical 25: 'katakana to'), take as 'sharp right turn' ",
-   "parents": "None",
+   "parents": "None"
   },
   {
    "id": 92,
@@ -918,7 +918,7 @@
    "kunyomi": "ま, あいだ",
    "mnemonic": "When MA (ま) has the blues, she appreciates the SPACE in the gate (門) that lets sun (日) into the room. ",
    "footnotes": "門 (211: gate; radical 169: 'gate') 日 (62: sun; radical 72: 'sun') ",
-   "parents": "簡 (829: simple),闇 (2121: dark)",
+   "parents": "簡 (829: simple),闇 (2121: dark)"
   },
   {
    "id": 93,
@@ -928,7 +928,7 @@
    "kunyomi": "かお",
    "mnemonic": "You should have seen the EXPRESSION on the lad's (彦) FACE when I showed him the blue GUN (ガン) made of big shells (頁). ",
    "footnotes": "彦 (lad) 頁 (page; radical 181: 'big shell') ",
-   "parents": "None",
+   "parents": "None"
   },
   {
    "id": 94,
@@ -938,7 +938,7 @@
    "kunyomi": "",
    "mnemonic": "'Water (氵) turns into STEAM (气) when heated,' blue-haired KEIth (キ) explained. ",
    "footnotes": "氵 is a variant of 水 (radical 85: 'water') 气 (breath; radical 84: 'steam') ",
-   "parents": "None",
+   "parents": "None"
   },
   {
    "id": 95,
@@ -948,7 +948,7 @@
    "kunyomi": "しる-す",
    "mnemonic": "Blue-eyed KEIth (キ) says (言) he himself (己) WROTE DOWN the sequence of events from MEMORY. ",
    "footnotes": "言 (274: to say; radical 149: 'word') 己 (855: self; radical 49: 'oneself') ",
-   "parents": "None",
+   "parents": "None"
   },
   {
    "id": 96,
@@ -958,7 +958,7 @@
    "kunyomi": "かえ-す, かえ-る",
    "mnemonic": " Blue-haired KEIth (キ) RETURNED triumphantly with sword (刂) in hand (彐), FOLLOWED by blue-eyed KAEla (かえ(る)), who covered (冖) her head with a delicate cloth (巾). ",
    "footnotes": " 刂 is a variant of 刀 (radical 18: 'sword') 彐 (pig's head; radical 58: 'katakana yo'), take as 'hand' 冖 (to cover; radical 14: 'katakana wa') 巾 (1989: cloth; radical 50: 'cloth') ",
-   "parents": "None",
+   "parents": "None"
   },
   {
    "id": 97,
@@ -968,7 +968,7 @@
    "kunyomi": "うし",
    "mnemonic": "'The COW with a broken horn? I call her USCHI (うし).' ",
    "footnotes": "The kanji itself is radical 93: 'cow' ",
-   "parents": "物 (387: thing),解 (632: to take apart),特 (760: special),and more",
+   "parents": "物 (387: thing),解 (632: to take apart),特 (760: special),and more"
   },
   {
    "id": 98,
@@ -978,7 +978,7 @@
    "kunyomi": "さかな, うお",
    "mnemonic": "In the middle of the rice field (田) he made a fire (灬) and roasted the FISH that was still on the hook (). Then he said, 'Now hand me the spices from the blue SACK, ANNA (さかな).' ",
    "footnotes": "田 (59: rice field; radical 102: 'rice field') 灬 is a variant of 火 (radical 86: 'fire') , take as 'hook' The kanji itself is radical 195: 'fish' ",
-   "parents": "漁 (459: fishing),鯨 (1208: whale),鮮 (1501: fresh)",
+   "parents": "漁 (459: fishing),鯨 (1208: whale),鮮 (1501: fresh)"
   },
   {
    "id": 99,
@@ -988,7 +988,7 @@
    "kunyomi": "",
    "mnemonic": "In the back of the blue KIOsk (キョウ), in a small (小) opening (口) covered by a lid (亠), they hide the map of the CAPITAL's secret passages. ",
    "footnotes": "小 (36: small; radical 42: 'little') 口 (20: opening; radical 30: 'mouth') 亠 (radical 8: 'lid') ",
-   "parents": "景 (469: scene),就 (890: to start),涼 (1906: cool),and more",
+   "parents": "景 (469: scene),就 (890: to start),涼 (1906: cool),and more"
   },
   {
    "id": 100,
@@ -998,7 +998,7 @@
    "kunyomi": "つよ-い, つよ-める, つよ-まる, し-いる",
    "mnemonic": "'At the blue KIOsk (キョウ) they're displaying an insect (虫) that can use its incredibly STRONG nose (ム) to pull the string of a bow (弓),' says blue-haired HuGO (ゴウ). ",
    "footnotes": "虫 (56: insect; radical 142: 'insect') ム (private; radical 28: 'katakana mu'), take as 'nose' 弓 (836: bow; radical 57: 'bow') ",
-   "parents": "None",
+   "parents": "None"
   },
  ]
 }
