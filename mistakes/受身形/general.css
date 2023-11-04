@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: #E6E7E7;
+    font-size: 22px;
+}
+
+.wrong {
+    color: #F54337;
+}
+
+.explanation {
+    color: #3A3B38;
+}
