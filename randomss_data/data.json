@@ -98,6 +98,13 @@
       "text": "セーラを助けてもらえたら礼として大陸への橋をかけよう。頼んだぞ、光の戦士たちよ…！",
       "translation": "Depois que salvarem Sara, como agradecimento, construiremos uma ponte que leva ao continente. Conto com vocês, guerreiros da luz!",
       "tags": ["forma-volitiva", "forma-てもらう", "として", "particula-ぞ", "forma-たら", "particula-combinadaーへの"]
+    },
+    {
+      "image": "DigimonWorld (Japan)-231120-224948",
+      "title": "レオモン",
+      "text": "「しかし約束しよう。もし見つかったなら君達の街へ行こう。」",
+      "translation": "No entanto eu prometo, se acharem, eu vou pra cidade de vocês.",
+      "tags": ["forma-volitiva", "particula-へ", "もし〜なら"]
     }
   ]
 }
