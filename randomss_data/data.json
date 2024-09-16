@@ -1,5 +1,5 @@
 {
-  "size": 16,
+  "size": 17,
   "data": [
     {
       "image": "240217-140011",
@@ -112,7 +112,13 @@
       "text": "ボールになり、狭い通路を通ることができる。",
       "translation": "Se transforma numa bola e é capaz de atravessar por passagens estreitas.",
       "tags": ["になる", "ことができる"]
-
+    },
+    {
+      "image": "Yu-Gi-Oh! - Duel Monsters 5 Expert I (J)-231119-173257",
+      "title": "Tea",
+      "text": "あちゃー負けちゃった。よーし、今度はダンスで勝負しましょう。ダンスバトルゲームなら負けないんだから！！",
+      "translation": "Ah... Acabei perdendo. Beleza, Da próxima vamos dançar. Se for uma batalha de dança, eu não vou perder!",
+      "tags": ["てしまう", "ちゃう", "ましょう", "forma-ない", "なら", "だから"]
     }
   ]
 }
