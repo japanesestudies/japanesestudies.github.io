@@ -1,5 +1,5 @@
 {
-  "size": 21,
+  "size": 22,
   "data": [
     {
       "image": "240217-140011",
@@ -147,6 +147,13 @@
       "text": "おっちゃんたち本当はすごく強いんだろ？",
       "translation": "Vocês são realmente muito fortes, não?",
       "tags": ["だろう"]
+    },
+    {
+      "image": "Magic Knight Rayearth (Japan) (SGB Enhanced)-1",
+      "title": "女の子",
+      "text": "歩いていればいつかはぬけることができると思いますから…",
+      "translation": "Acho que se continuarmos caminhando, em algum momento vamos sair dessa...",
+      "tags": ["と思う", "ば", "から", "ことができる", "ている"]
     }
   ]
 }
