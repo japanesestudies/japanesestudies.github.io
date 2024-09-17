@@ -1,5 +1,5 @@
 {
-  "size": 25,
+  "size": 26,
   "data": [
     {
       "image": "240217-140011",
@@ -175,6 +175,13 @@
       "text": "ビームはL+Bで斜めに撃つことができる",
       "translation": "Usando L + B, o feixe de luz pode ser atirado diagonalmente",
       "tags": ["particula-で", "ことができる"]
+    },
+    {
+      "image": "Fushigi no Dungeon - Fuurai no Shiren GB - Tsukikage Mura no Kaibutsu (Japan) (SGB Enhanced)-1",
+      "title": "村長",
+      "text": "この村はオロチという怪物に支配されておる。",
+      "translation": "Este vilarejo está sendo dominado por um monstro chamado Orochi.",
+      "tags": ["forma-passiva", "という"]
     }
   ]
 }
