@@ -1,5 +1,5 @@
 {
-  "size": 22,
+  "size": 23,
   "data": [
     {
       "image": "240217-140011",
@@ -154,6 +154,13 @@
       "text": "歩いていればいつかはぬけることができると思いますから…",
       "translation": "Acho que se continuarmos caminhando, em algum momento vamos sair dessa...",
       "tags": ["と思う", "ば", "から", "ことができる", "ている"]
+    },
+    {
+      "image": "Magic Knight Rayearth (Japan) (SGB Enhanced)-5",
+      "title": "ふう",
+      "text": "行き止まりみたいですわ",
+      "translation": "Parece que é um beco sem saída",
+      "tags": ["particula-わ"]
     }
   ]
 }
