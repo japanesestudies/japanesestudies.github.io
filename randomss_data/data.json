@@ -1,5 +1,5 @@
 {
-  "size": 23,
+  "size": 25,
   "data": [
     {
       "image": "240217-140011",
@@ -160,7 +160,21 @@
       "title": "ふう",
       "text": "行き止まりみたいですわ",
       "translation": "Parece que é um beco sem saída",
-      "tags": ["particula-わ"]
+      "tags": ["particula-わ", "みたい"]
+    },
+    {
+      "image": "Metroid - Zero Mission (Japan)-1",
+      "title": "説明ボックス",
+      "text": "射程距離の長いビーム",
+      "translation": "Feixe de luz de longo alcance",
+      "tags": ["particula-の"]
+    },
+    {
+      "image": "Metroid - Zero Mission (Japan)-2",
+      "title": "説明ボックス",
+      "text": "ビームはL+Bで斜めに撃つことができる",
+      "translation": "Usando L + B, o feixe de luz pode ser atirado diagonalmente",
+      "tags": ["particula-で", "ことができる"]
     }
   ]
 }
