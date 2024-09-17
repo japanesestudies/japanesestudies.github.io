@@ -1,5 +1,5 @@
 {
-  "size": 19,
+  "size": 21,
   "data": [
     {
       "image": "240217-140011",
@@ -133,6 +133,20 @@
       "text": "今　この城は邪悪な意志に支配されています…",
       "translation": "Agora, este castelo está sendo controlado por uma vontade malígna.",
       "tags": ["forma-passiva"]
+    },
+    {
+      "image": "yJqYdB4",
+      "title": "男の子",
+      "text": "さっき　赤いマントの人がジャングルの方に走っていったよ。",
+      "translation": "Agora pouco, uma pessoa de manto vermelho correu em direção à floresta.",
+      "tags": ["ていく"]
+    },
+    {
+      "image": "qmZdxZG",
+      "title": "旅人",
+      "text": "おっちゃんたち本当はすごく強いんだろ？",
+      "translation": "Vocês são realmente muito fortes, não?",
+      "tags": ["だろう"]
     }
   ]
 }
