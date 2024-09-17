@@ -1,5 +1,5 @@
 {
-  "size": 17,
+  "size": 19,
   "data": [
     {
       "image": "240217-140011",
@@ -117,8 +117,22 @@
       "image": "Yu-Gi-Oh! - Duel Monsters 5 Expert I (J)-231119-173257",
       "title": "Tea",
       "text": "あちゃー負けちゃった。よーし、今度はダンスで勝負しましょう。ダンスバトルゲームなら負けないんだから！！",
-      "translation": "Ah... Acabei perdendo. Beleza, Da próxima vamos dançar. Se for uma batalha de dança, eu não vou perder!",
+      "translation": "Ah... Acabei perdendo. Beleza, Da próxima vamos uma partida de dança. Se for uma batalha de dança, eu não vou perder!",
       "tags": ["てしまう", "ちゃう", "ましょう", "forma-ない", "なら", "だから"]
+    },
+    {
+      "image": "FKR1Pe7",
+      "title": "マックス",
+      "text": "見て、パパ、海賊船だ！",
+      "translation": "Olhe papai, é o navio pirata!",
+      "tags": ["forma-て"]
+    },
+    {
+      "image": "HbAm4Xz",
+      "title": "戦士",
+      "text": "今　この城は邪悪な意志に支配されています…",
+      "translation": "Agora, este castelo está sendo controlado por uma vontade malígna.",
+      "tags": ["forma-passiva"]
     }
   ]
 }
