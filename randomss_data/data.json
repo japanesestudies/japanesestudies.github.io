@@ -1,5 +1,5 @@
 {
-  "size": 26,
+  "size": 28,
   "data": [
     {
       "image": "240217-140011",
@@ -181,7 +181,21 @@
       "title": "村長",
       "text": "この村はオロチという怪物に支配されておる。",
       "translation": "Este vilarejo está sendo dominado por um monstro chamado Orochi.",
-      "tags": ["forma-passiva", "という"]
+      "tags": ["forma-passiva", "という", "ておる"]
+    },
+    {
+      "image": "Fushigi no Dungeon - Fuurai no Shiren GB - Tsukikage Mura no Kaibutsu (Japan) (SGB Enhanced)-2",
+      "title": "村長",
+      "text": "年に一度幼い子供を生贄に捧げなければならぬのじゃ",
+      "translation": "Todo ano, temos que doar uma criança pequena como sacrifício",
+      "tags": ["かければならない"]
+    },
+    {
+      "image": "Fushigi no Dungeon - Fuurai no Shiren GB - Tsukikage Mura no Kaibutsu (Japan) (SGB Enhanced)-3",
+      "title": "ロクロウ",
+      "text": "ナギがっ！ナギがいねえんだっ！どこ探しても見当たらないんだよ！！",
+      "translation": "A Nagi! Não a encontramos não importa onde a procuremos!",
+      "tags": ["forma-ても", "forma-ない"]
     }
   ]
 }
