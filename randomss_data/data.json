@@ -1,5 +1,5 @@
 {
-  "size": 31,
+  "size": 32,
   "data": [
     {
       "image": "240217-140011",
@@ -217,6 +217,13 @@
       "text": "あのなぁ……　ボクはいつも　本当のことしか言わないぞ！！",
       "translation": "Eerr... Eu sempre falo apenas a verdade!",
       "tags": ["しか〜ない"]
+    },
+    {
+      "image": "Little Princess - Marl Oukoku no Ningyouhime 2 (Japan) (Disc 1) (+1 Tasu Ichi)-240313-122710",
+      "title": "女王",
+      "text": "そして、お母さまみたいに自分の王子さまを見つけて幸せになるの。",
+      "translation": "E então, assim como a mamãe, vou encontrar o meu próprio príncipe e ser feliz.",
+      "tags": ["forma-て", "になる", "みたい"]
     }
   ]
 }
