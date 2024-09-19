@@ -1,5 +1,5 @@
 {
-  "size": 29,
+  "size": 31,
   "data": [
     {
       "image": "240217-140011",
@@ -203,6 +203,20 @@
       "text": "なぜ、自らの答えを認めようとしない……",
       "translation": "Porque não admitem as próprias respostas?...",
       "tags": ["〜ようとしない"]
+    },
+    {
+      "image": "Final Fantasy 1 and 2 Advance (J)-231216-144124",
+      "title": "会話ボックス",
+      "text": "この扉は『神秘の鍵』によって封印されている…。",
+      "translation": "Esta porta está selada pela chave secreta...",
+      "tags": ["forma-passiva"]
+    },
+    {
+      "image": "Lunar - Silver Star Story (Japan, Asia) (Disc 1) (Track 1)-240313-020833",
+      "title": "ラムス",
+      "text": "あのなぁ……　ボクはいつも　本当のことしか言わないぞ！！",
+      "translation": "Eerr... Eu sempre falo apenas a verdade!",
+      "tags": ["しか〜ない"]
     }
   ]
 }
