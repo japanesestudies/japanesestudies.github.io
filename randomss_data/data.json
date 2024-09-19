@@ -1,5 +1,5 @@
 {
-  "size": 28,
+  "size": 29,
   "data": [
     {
       "image": "240217-140011",
@@ -196,6 +196,13 @@
       "text": "ナギがっ！ナギがいねえんだっ！どこ探しても見当たらないんだよ！！",
       "translation": "A Nagi! Não a encontramos não importa onde a procuremos!",
       "tags": ["forma-ても", "forma-ない"]
+    },
+    {
+      "image": "FFIX-Disk4-240117-081755",
+      "title": "永遠の闇",
+      "text": "なぜ、自らの答えを認めようとしない……",
+      "translation": "Porque não admitem as próprias respostas?...",
+      "tags": ["〜ようとしない"]
     }
   ]
 }
