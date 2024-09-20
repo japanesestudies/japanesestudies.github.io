@@ -1,5 +1,5 @@
 {
-  "size": 32,
+  "size": 34,
   "data": [
     {
       "image": "240217-140011",
@@ -224,6 +224,20 @@
       "text": "そして、お母さまみたいに自分の王子さまを見つけて幸せになるの。",
       "translation": "E então, assim como a mamãe, vou encontrar o meu próprio príncipe e ser feliz.",
       "tags": ["forma-て", "になる", "みたい"]
+    },
+    {
+      "image": "Seiken Densetsu - Legend of Mana (Japan, Asia)-240310-002237",
+      "title": "瑠璃",
+      "text": "俺を怒らせるな…",
+      "translation": "Não me faça raiva...",
+      "tags": ["forma-causativa", "negativo-imperativo-な"]
+    },
+    {
+      "image": "Castlevania - Byakuya no Concerto (J)-240309-133916",
+      "title": "マクシーム",
+      "text": "死ぬなよ。ジュスト。",
+      "translation": "Não morra, Juste.",
+      "tags": ["negativo-imperativo-な"]
     }
   ]
 }
