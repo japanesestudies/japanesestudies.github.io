@@ -1,5 +1,5 @@
 {
-  "size": 36,
+  "size": 38,
   "data": [
     {
       "image": "240217-140011",
@@ -252,6 +252,20 @@
       "text": "光のこな？どこから降ってきているんだろう？",
       "translation": "Poeira de luz? De onde está que está caindo?",
       "tags": ["forma-て", "だろう", "てくる"]
+    },
+    {
+      "image": "Soma Bringer-240920-2678465",
+      "title": "ミラーズ",
+      "text": "森の奥に行くほど、たくさん降っているようだね。",
+      "translation": "Poeira de luz? De onde está que está caindo?",
+      "tags": ["〜よう", "ほど", "ている"]
+    },
+    {
+      "image": "Dragon Shadow Spell_SLPS-25735_20240920141205",
+      "title": "シズイ",
+      "text": "カイト、気を付けろ、お前にとっては初めての実践だ。",
+      "translation": "Kaito, tome cuidado, é a sua primeira batalha de verdade.",
+      "tags": ["forma-imperativa", "にとって"]
     }
   ]
 }
