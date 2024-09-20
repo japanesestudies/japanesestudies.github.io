@@ -1,5 +1,5 @@
 {
-  "size": 35,
+  "size": 36,
   "data": [
     {
       "image": "240217-140011",
@@ -244,7 +244,14 @@
       "title": "マートル",
       "text": "モンスターを倒すと、時々宝箱をおとすことがあるよ。",
       "translation": "Ao derrotar um monstro, as vezes um baú do tesouro aparece.",
-      "tags": ["と", "ことがある"]
+      "tags": ["conjunção-subordinada-と", "ことがある"]
+    },
+    {
+      "image": "Soma Bringer-242009-2468522",
+      "title": "ヴェルト",
+      "text": "光のこな？どこから降ってきているんだろう？",
+      "translation": "Poeira de luz? De onde está que está caindo?",
+      "tags": ["forma-て", "だろう", "てくる"]
     }
   ]
 }
