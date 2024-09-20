@@ -1,5 +1,5 @@
 {
-  "size": 34,
+  "size": 35,
   "data": [
     {
       "image": "240217-140011",
@@ -238,6 +238,13 @@
       "text": "死ぬなよ。ジュスト。",
       "translation": "Não morra, Juste.",
       "tags": ["negativo-imperativo-な"]
+    },
+    {
+      "image": "Soma Bringer-242009-124587654",
+      "title": "マートル",
+      "text": "モンスターを倒すと、時々宝箱をおとすことがあるよ。",
+      "translation": "Ao derrotar um monstro, as vezes um baú do tesouro aparece.",
+      "tags": ["と", "ことがある"]
     }
   ]
 }
