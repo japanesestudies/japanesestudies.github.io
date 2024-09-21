@@ -1,5 +1,5 @@
 {
-  "size": 38,
+  "size": 39,
   "data": [
     {
       "image": "240217-140011",
@@ -263,9 +263,16 @@
     {
       "image": "Dragon Shadow Spell_SLPS-25735_20240920141205",
       "title": "シズイ",
-      "text": "カイト、気を付けろ、お前にとっては初めての実践だ。",
+      "text": "カイト、気を付けろ、お前にとっては初めての実戦だ。",
       "translation": "Kaito, tome cuidado, é a sua primeira batalha de verdade.",
       "tags": ["forma-imperativa", "にとって"]
+    },
+    {
+      "image": "Soma Bringer-240920-87451124",
+      "title": "ミラーズ",
+      "text": "イテテテーどうやら天国じゃなさそうだね。",
+      "translation": "Ai... Aparentemente, aqui não parece o paraíso.",
+      "tags": ["なさそう" ]
     }
   ]
 }
